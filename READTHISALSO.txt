@@ -1,0 +1,1 @@
+A 3rd file is added on the local working directory

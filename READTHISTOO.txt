@@ -1,0 +1,1 @@
+A second file added on the local working directory
